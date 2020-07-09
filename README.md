@@ -1,1 +1,1 @@
-# Java Pixel Art Super Sample (JPASS)
+# Java Pixel Art Super Sampler (JPASS)
